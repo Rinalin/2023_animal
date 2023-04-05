@@ -10,6 +10,8 @@ class Animal:
 
     //abc
 // linruna`
+
+//guowenhao
     def run(self):
         print('i can run')
 

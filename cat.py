@@ -11,7 +11,7 @@ class Cat(animal.Animal):
 
     def shout(self):
         print('miaomiao')
-    //
+    //12312
 if __name__=='__main__':
     keke = Cat('long','keke','black','5','femail')
     keke.catch()

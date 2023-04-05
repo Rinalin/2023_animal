@@ -9,6 +9,7 @@ class Animal:
         print('i can shout')
 
     //abc
+//guowenhao
     def run(self):
         print('i can run')
 
